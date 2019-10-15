@@ -1,3 +1,9 @@
+## 15.10.2019
+
+### Added
+- `Feature` Added Sonar Core
+
+
 ## 14.10.2019
 
 ### Removed
