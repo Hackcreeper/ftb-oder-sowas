@@ -1,3 +1,13 @@
+## 18.10.2019
+
+### Removed
+- `Feature` Player Storage Mod
+- `Feature` Tardis Mod
+- `Feature` Handles
+
+### Added
+- `Feature` Dalek Mod
+
 ## 15.10.2019
 
 ### Added
