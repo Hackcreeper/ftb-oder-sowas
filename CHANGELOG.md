@@ -1,3 +1,9 @@
+## 31.10.2019
+
+### Updated
+- `Feature` Dalek Mod to 51.0.1
+
+
 ## 18.10.2019
 
 ### Removed
